@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/0d386280-b027-49cd-9d38-1beff62ba2ba)
+![Uploading image.png…]()
+
 
 
 # The-Agentic-Engineering-Trifecta-Manual - Written by Claude

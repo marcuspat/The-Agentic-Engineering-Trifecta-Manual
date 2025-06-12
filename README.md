@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/0d386280-b027-49cd-9d38-1beff62ba2ba)
+
+
 # The-Agentic-Engineering-Trifecta-Manual - Written by Claude
 Complete guide to orchestrating Claude, Roo Code SPARC, and GitHub Copilot Agent for maximum development productivity. Learn workflows, templates, and best practices for AI-powered software engineering.
 
